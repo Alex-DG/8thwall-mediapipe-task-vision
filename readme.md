@@ -3,7 +3,12 @@
 ## Description
 
 - Experiment 8thWall AR with face tracking Mediapipe/task-vision
-- Based on mediapipe-studio (documentation)[https://mediapipe-studio.webapps.google.com/demo/face_landmarker]
+- Based on mediapipe-studio [documentation](https://mediapipe-studio.webapps.google.com/demo/face_landmarker])
+
+## Demo
+
+https://github.com/Alex-DG/8thwall-mediapipe-task-vision/assets/4311684/373c8a74-21c8-4af4-ac56-b1b71aee6d17
+
 
 ## Setup
 
